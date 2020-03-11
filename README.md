@@ -22,6 +22,8 @@
 
 #### [IntentData](./IntentData)
 
+#### [IntentFilter](./IntentFilter)
+
 #### [Parcelable](./Parcelable)
 
 #### [ActivityAction](./ActivityAction)
