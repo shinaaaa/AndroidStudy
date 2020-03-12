@@ -32,6 +32,8 @@
 
 #### [ListFragment](./ListFragment)
 
+#### [DialogFragment](./DialogFragment)
+
 #### [ActivityController](./ActivityController)
 
 #### [DPITest](./DPITest)
