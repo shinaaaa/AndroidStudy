@@ -36,6 +36,8 @@
 
 #### [ActivityController](./ActivityController)
 
+#### [ImageResource](./ImageResource)
+
 #### [DPITest](./DPITest)
 
 
